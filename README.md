@@ -1,16 +1,26 @@
-### Hi there 👋
+###  Hi there 👋 , I'm Mirzad Ismail !
 
-<!--
-**mirzad-ismail/mirzad-ismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m exploring technologies: learning DevOps, Cloud computing, IoT/Embedded and Web development,
+looking to collaborate on open source and communities, delving into Cybersecurity and AI.
+
+###  Connect with me ❤️
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirzad-ismail-7870441ba/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Mirzzie)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mirzziy/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MiRZZiE)
+
+###  I'm into these 🔥
+
+<p align="left">
+	<p align="left">
+	<a href="https://skillicons.dev">
+    	<img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,css,html,androidstudio,java,kotlin,js,php,azure,aws,docker,kubernetes,linux,vscode,django,mysql,arduino&perline=10" />
+  	</a> 
+</p>
+
+<p align="left">
+	<img src = "https://github-readme-stats.vercel.app/api?username=mirzad-ismail&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+</p>
